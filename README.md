@@ -73,7 +73,7 @@ cd FudgeFinancialAPI
 ```
 
 ```
-ng start
+npm start
 ```
 ## RUN
 
