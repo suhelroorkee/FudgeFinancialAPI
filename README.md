@@ -56,7 +56,6 @@ Once the tap has been added, use the instructions below to install the software 
 
 ### Setting Up a Project
 
-```
 
 Install packages:
 
@@ -69,11 +68,15 @@ Make sure mongoDB connection working
 Run the application:
 
 ```
-cd [PROJECT NAME]
+cd FudgeFinancialAPI
+
+```
+
+```
 ng start
 ```
 ## RUN
 
-http://localhost:3000/#/dashboard
+http://localhost:3000/#/
 
 
